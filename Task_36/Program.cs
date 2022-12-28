@@ -16,3 +16,5 @@ for (int i =0; i <array.Length; i++)
     sum = sum + array[i];
 }
 Console.Write($"Сумма элементов, стоящих на нечетных позициях -> {sum}");
+
+
